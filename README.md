@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Dagmar Eleutério
 
-**`Desenvolvedor FrontEnd`**
+**`Desenvolvedor Full-stack`**
 
 Me chamo Dagmar Matheus Eleutério Cardoso, tenho 25 anos e sou natural de Santa Catarina. Concluí o ensino médio no ENCEJA. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonado por tecnologia e compartilho meu progresso através do meu canal no YouTube "[dgmrxo](https://www.youtube.com/@dgmrxo)", onde mostro as tecnlogias que estou aprendendo atualmente. Todo tempo livre que possuo são convertios em horas de estudos.
 
